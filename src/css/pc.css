@@ -1,0 +1,47 @@
+
+
+.logo{
+    align-items: center;
+    display: flex;
+}
+
+.logo img{
+    width: 48px;
+    height: 48px;
+}
+
+.logo span{
+    font-size: 24px;
+    padding-left: 5px;
+}
+
+.footer{
+    text-align: center;
+}
+
+.ant-menu-item.register{
+    display: flex;
+    align-items: center;
+}
+
+.container{
+    margin-top:10px;
+}
+
+.topNewsList{
+    margin-top:10px;
+}
+
+.topNewsList .ant-card-body{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.container{
+    margin-right:20px;
+}
+
+.ant-card-bordered{
+    margin-top:12px;
+}
